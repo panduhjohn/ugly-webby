@@ -2,8 +2,8 @@ h1 {
     color: rgba(245, 6, 233, 0.815);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 79px;
-    font-weight: bold;
-    letter-spacing: -1px;
+    font-weight: ;
+    letter-spacing: -15px;
     line-height: 1;
     text-align: left;
     background-color: salmon
@@ -13,9 +13,9 @@ p {
     color: #685206;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 12px;
     margin: 0 0 24px;
-    text-align: justify;
+
     text-justify: inter-word;
     background-color: forestgreen
 }
@@ -75,4 +75,10 @@ h3 {
 body {
     background-color: firebrick;
 
+}
+
+li {
+    color: blue;
+    font-synthesis: unset;
+    font-size: xx-small;
 }
