@@ -83,3 +83,13 @@ li {
     font-synthesis: unset;
     font-size: xx-small;
 }
+
+strong {
+    color: rgb(32, 15, 222);
+}
+
+button {
+    height: 300px;
+    width: 500px;
+    background-color: darkorchid;
+}
