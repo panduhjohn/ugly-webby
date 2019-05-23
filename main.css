@@ -6,7 +6,7 @@ h1 {
     letter-spacing: -15px;
     line-height: 1;
     text-align: left;
-    background-color: salmon
+    background-color: salmon;
 }
 
 p {
@@ -27,7 +27,7 @@ textarea {
 }
 
 ul, ol {
-    margin: 35px;
+    margin: 13px;
     padding: 0;
     font-size: 22px;
     color: rgba(231, 16, 167, 0.11);
@@ -74,6 +74,7 @@ h3 {
 
 body {
     background-color: firebrick;
+    background-image: url(https://media1.tenor.com/images/f73a3a6fe49ad9f125d2566fa9eb3f72/tenor.gif?itemid=8092462)
 
 }
 
