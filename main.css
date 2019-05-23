@@ -6,7 +6,8 @@ h1 {
     letter-spacing: -15px;
     line-height: 1;
     text-align: left;
-    background-color: salmon;
+    background-image: url(https://media0.giphy.com/media/zuPcgVHJLXnwI/giphy.gif?cid=790b76115ce6b2a9546a6e434d01cc13&rid=giphy.gif);
+    background-size: 100%;
 }
 
 p {
@@ -17,7 +18,7 @@ p {
     margin: 0 0 24px;
 
     text-justify: inter-word;
-    background-color: forestgreen
+    background-color: forestgreen;
 }
 
 textarea {
@@ -27,11 +28,12 @@ textarea {
 }
 
 ul, ol {
-    margin: 13px;
-    padding: 0;
-    font-size: 22px;
+    margin: 100px;
+    padding: 25;
+    font-size: 50px;
     color: rgba(231, 16, 167, 0.11);
-    background-color: #0af70a
+    background-image: url(https://media0.giphy.com/media/SggILpMXO7Xt6/giphy.gif?cid=790b76115ce6b32f4336553932bd88a5&rid=giphy.gif);
+    background-size: 100%;
 }
 
 li {
@@ -40,7 +42,7 @@ li {
 }
    
 li:last-child {
-    border: none;
+    border: 45;
 }
 
 form {
@@ -55,12 +57,15 @@ input, textarea {
     padding:5px;
     margin:15px;
     color: rgb(238, 14, 107);
-    background-color: rgb(206, 17, 17)
+    background-color: royalblue
 }
 
 p {
-    color:rgba(148, 20, 207, 0.959);
-    background-color: rgb(145, 141, 141)
+    color: fuchsia;
+    background-color: rgb(145, 141, 141);
+    background-image: url(https://media1.tenor.com/images/f73a3a6fe49ad9f125d2566fa9eb3f72/tenor.gif?itemid=8092462);
+    height: 150px;
+    background-size: 20%;
 }
 
 code {
@@ -68,20 +73,23 @@ code {
 }
 
 h3 {
-    background-color: tomato;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    background-image: url(https://reactiongifs.me/wp-content/uploads/2013/07/laughing-against-the-world.gif);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 150px;
+    background-position: 5cm;
+    background-size: 18%;
 }
 
 body {
-    background-color: firebrick;
-    background-image: url(https://media1.tenor.com/images/f73a3a6fe49ad9f125d2566fa9eb3f72/tenor.gif?itemid=8092462)
-
+    background-image: url(https://media3.giphy.com/media/OK5LK5zLFfdm/giphy.gif?cid=790b76115ce6b6975833652f73aa049c&rid=giphy.gif);
+    background-size: 100%;
 }
+
 
 li {
     color: blue;
     font-synthesis: unset;
-    font-size: xx-small;
+    font-size: xx-large;
 }
 
 strong {
